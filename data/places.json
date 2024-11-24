@@ -1,0 +1,497 @@
+[
+	{
+		"name": "Green Valley",
+		"latitude": 37.8753,
+		"longitude": -122.2674
+	},
+	{
+		"name": "River Point",
+		"latitude": 34.7894,
+		"longitude": -87.4568
+	},
+	{
+		"name": "Sunny Grove",
+		"latitude": 28.6578,
+		"longitude": -81.2101
+	},
+	{
+		"name": "Silver Lake",
+		"latitude": 34.0918,
+		"longitude": -118.2655
+	},
+	{
+		"name": "Maple Ridge",
+		"latitude": 45.3567,
+		"longitude": -122.5698
+	},
+	{
+		"name": "Ocean Breeze",
+		"latitude": 29.1348,
+		"longitude": -80.9765
+	},
+	{
+		"name": "Mountain Peak",
+		"latitude": 39.742,
+		"longitude": -105.2789
+	},
+	{
+		"name": "Golden Meadows",
+		"latitude": 42.0846,
+		"longitude": -88.0786
+	},
+	{
+		"name": "Crystal Falls",
+		"latitude": 46.0989,
+		"longitude": -88.4512
+	},
+	{
+		"name": "Sunset Beach",
+		"latitude": 33.7466,
+		"longitude": -118.0853
+	},
+	{
+		"name": "Pine Forest",
+		"latitude": 44.1235,
+		"longitude": -71.6468
+	},
+	{
+		"name": "Desert Hills",
+		"latitude": 33.7639,
+		"longitude": -112.0733
+	},
+	{
+		"name": "Autumn Creek",
+		"latitude": 40.6764,
+		"longitude": -73.8936
+	},
+	{
+		"name": "Cedar Springs",
+		"latitude": 36.8374,
+		"longitude": -82.7785
+	},
+	{
+		"name": "Bright Shores",
+		"latitude": 41.6425,
+		"longitude": -87.4367
+	},
+	{
+		"name": "Willow Grove",
+		"latitude": 40.1453,
+		"longitude": -75.118
+	},
+	{
+		"name": "Hidden Valley",
+		"latitude": 38.1451,
+		"longitude": -119.4312
+	},
+	{
+		"name": "Misty Ridge",
+		"latitude": 48.3321,
+		"longitude": -122.5924
+	},
+	{
+		"name": "Snowy Peak",
+		"latitude": 39.5632,
+		"longitude": -106.4527
+	},
+	{
+		"name": "Lakeview Park",
+		"latitude": 40.7785,
+		"longitude": -73.9659
+	},
+	{
+		"name": "Elmwood Place",
+		"latitude": 39.1624,
+		"longitude": -84.4862
+	},
+	{
+		"name": "Harbor Point",
+		"latitude": 32.7802,
+		"longitude": -117.2233
+	},
+	{
+		"name": "Spring Valley",
+		"latitude": 32.7457,
+		"longitude": -116.9971
+	},
+	{
+		"name": "Pebble Creek",
+		"latitude": 35.2848,
+		"longitude": -80.7433
+	},
+	{
+		"name": "Emerald Hills",
+		"latitude": 37.4767,
+		"longitude": -122.2568
+	},
+	{
+		"name": "Golden Sands",
+		"latitude": 25.7714,
+		"longitude": -80.134
+	},
+	{
+		"name": "Amber Woods",
+		"latitude": 34.1917,
+		"longitude": -118.5253
+	},
+	{
+		"name": "Lone Pine",
+		"latitude": 36.6069,
+		"longitude": -118.0634
+	},
+	{
+		"name": "Cherry Blossom",
+		"latitude": 38.9324,
+		"longitude": -77.0367
+	},
+	{
+		"name": "Blue Lagoon",
+		"latitude": 27.1761,
+		"longitude": -81.9532
+	},
+	{
+		"name": "Golden Ridge",
+		"latitude": 39.9942,
+		"longitude": -105.4891
+	},
+	{
+		"name": "Sunny Vale",
+		"latitude": 37.3688,
+		"longitude": -122.0363
+	},
+	{
+		"name": "Majestic Hills",
+		"latitude": 34.3432,
+		"longitude": -117.4978
+	},
+	{
+		"name": "Silver Birch",
+		"latitude": 42.5923,
+		"longitude": -82.8803
+	},
+	{
+		"name": "Whispering Pines",
+		"latitude": 33.9053,
+		"longitude": -79.4768
+	},
+	{
+		"name": "Rose Garden",
+		"latitude": 37.3249,
+		"longitude": -121.8736
+	},
+	{
+		"name": "Tranquil Shores",
+		"latitude": 41.6764,
+		"longitude": -87.4642
+	},
+	{
+		"name": "Autumn Hills",
+		"latitude": 35.1798,
+		"longitude": -81.2834
+	},
+	{
+		"name": "Meadow Brook",
+		"latitude": 39.0916,
+		"longitude": -94.5843
+	},
+	{
+		"name": "Crystal Bay",
+		"latitude": 39.2279,
+		"longitude": -120.0152
+	},
+	{
+		"name": "Willow Creek",
+		"latitude": 34.3172,
+		"longitude": -118.8352
+	},
+	{
+		"name": "Sunrise Point",
+		"latitude": 29.1979,
+		"longitude": -81.0835
+	},
+	{
+		"name": "Horizon View",
+		"latitude": 36.0147,
+		"longitude": -114.7375
+	},
+	{
+		"name": "Oak Valley",
+		"latitude": 37.8051,
+		"longitude": -121.6308
+	},
+	{
+		"name": "Riverbend Park",
+		"latitude": 38.9234,
+		"longitude": -77.2423
+	},
+	{
+		"name": "Twilight Cove",
+		"latitude": 30.3348,
+		"longitude": -87.6341
+	},
+	{
+		"name": "Golden Plains",
+		"latitude": 39.1298,
+		"longitude": -97.7094
+	},
+	{
+		"name": "Aspen Heights",
+		"latitude": 40.7487,
+		"longitude": -111.8917
+	},
+	{
+		"name": "Mystic Valley",
+		"latitude": 47.7503,
+		"longitude": -122.6347
+	},
+	{
+		"name": "Pacific Bluffs",
+		"latitude": 32.8583,
+		"longitude": -117.2713
+	},
+	{
+		"name": "Kuala Lumpur City",
+		"latitude": 3.139,
+		"longitude": 101.6869
+	},
+	{
+		"name": "George Town",
+		"latitude": 5.4141,
+		"longitude": 100.3294
+	},
+	{
+		"name": "Ipoh Garden",
+		"latitude": 4.6094,
+		"longitude": 101.0647
+	},
+	{
+		"name": "Johor Bahru",
+		"latitude": 1.4927,
+		"longitude": 103.7414
+	},
+	{
+		"name": "Kota Kinabalu",
+		"latitude": 5.9804,
+		"longitude": 116.0735
+	},
+	{
+		"name": "Kuching Central",
+		"latitude": 1.5533,
+		"longitude": 110.3593
+	},
+	{
+		"name": "Malacca City",
+		"latitude": 2.1896,
+		"longitude": 102.2501
+	},
+	{
+		"name": "Petaling Jaya",
+		"latitude": 3.1073,
+		"longitude": 101.6067
+	},
+	{
+		"name": "Shah Alam",
+		"latitude": 3.0738,
+		"longitude": 101.5183
+	},
+	{
+		"name": "Batu Pahat",
+		"latitude": 1.8548,
+		"longitude": 102.9336
+	},
+	{
+		"name": "Subang Jaya",
+		"latitude": 3.0803,
+		"longitude": 101.5829
+	},
+	{
+		"name": "Alor Setar",
+		"latitude": 6.1214,
+		"longitude": 100.3676
+	},
+	{
+		"name": "Seremban Town",
+		"latitude": 2.7297,
+		"longitude": 101.9381
+	},
+	{
+		"name": "Kuala Terengganu",
+		"latitude": 5.3294,
+		"longitude": 103.137
+	},
+	{
+		"name": "Miri City",
+		"latitude": 4.3991,
+		"longitude": 113.9915
+	},
+	{
+		"name": "Sandakan Bay",
+		"latitude": 5.8451,
+		"longitude": 118.0579
+	},
+	{
+		"name": "Langkawi Island",
+		"latitude": 6.3628,
+		"longitude": 99.7736
+	},
+	{
+		"name": "Port Dickson",
+		"latitude": 2.5153,
+		"longitude": 101.8057
+	},
+	{
+		"name": "Sepang Coast",
+		"latitude": 2.6939,
+		"longitude": 101.75
+	},
+	{
+		"name": "Cameron Highlands",
+		"latitude": 4.47,
+		"longitude": 101.3765
+	},
+	{
+		"name": "Genting Highlands",
+		"latitude": 3.4204,
+		"longitude": 101.7944
+	},
+	{
+		"name": "Bukit Mertajam",
+		"latitude": 5.3636,
+		"longitude": 100.4595
+	},
+	{
+		"name": "Pasir Gudang",
+		"latitude": 1.4728,
+		"longitude": 103.8786
+	},
+	{
+		"name": "Kuantan Town",
+		"latitude": 3.8077,
+		"longitude": 103.3256
+	},
+	{
+		"name": "Kota Bharu",
+		"latitude": 6.1254,
+		"longitude": 102.2386
+	},
+	{
+		"name": "Putrajaya City",
+		"latitude": 2.9352,
+		"longitude": 101.6911
+	},
+	{
+		"name": "Cyberjaya Central",
+		"latitude": 2.9226,
+		"longitude": 101.6568
+	},
+	{
+		"name": "Sungai Petani",
+		"latitude": 5.6454,
+		"longitude": 100.487
+	},
+	{
+		"name": "Rawang Town",
+		"latitude": 3.3217,
+		"longitude": 101.5769
+	},
+	{
+		"name": "Taiping Town",
+		"latitude": 4.8501,
+		"longitude": 100.7415
+	},
+	{
+		"name": "Jitra Valley",
+		"latitude": 6.265,
+		"longitude": 100.4263
+	},
+	{
+		"name": "Kuala Selangor",
+		"latitude": 3.3478,
+		"longitude": 101.2405
+	},
+	{
+		"name": "Tawau Hills",
+		"latitude": 4.2447,
+		"longitude": 117.8912
+	},
+	{
+		"name": "Lahad Datu",
+		"latitude": 5.032,
+		"longitude": 118.3278
+	},
+	{
+		"name": "Bintulu Port",
+		"latitude": 3.1724,
+		"longitude": 113.041
+	},
+	{
+		"name": "Perlis Valley",
+		"latitude": 6.5124,
+		"longitude": 100.2094
+	},
+	{
+		"name": "Marang Beach",
+		"latitude": 5.2062,
+		"longitude": 103.2065
+	},
+	{
+		"name": "Kemaman Coast",
+		"latitude": 4.2303,
+		"longitude": 103.4481
+	},
+	{
+		"name": "Sabah Highlands",
+		"latitude": 5.9752,
+		"longitude": 116.586
+	},
+	{
+		"name": "Sarawak Rainforest",
+		"latitude": 1.5001,
+		"longitude": 110.3458
+	},
+	{
+		"name": "Pekan Town",
+		"latitude": 3.4911,
+		"longitude": 103.392
+	},
+	{
+		"name": "Dungun Hills",
+		"latitude": 4.7583,
+		"longitude": 103.4278
+	},
+	{
+		"name": "Kangar Town",
+		"latitude": 6.4414,
+		"longitude": 100.1986
+	},
+	{
+		"name": "Tanjung Bungah",
+		"latitude": 5.4638,
+		"longitude": 100.2906
+	},
+	{
+		"name": "Teluk Intan",
+		"latitude": 4.0228,
+		"longitude": 101.0202
+	},
+	{
+		"name": "Sibu Town",
+		"latitude": 2.291,
+		"longitude": 111.8316
+	},
+	{
+		"name": "Keningau Valley",
+		"latitude": 5.3388,
+		"longitude": 116.1628
+	},
+	{
+		"name": "Semporna Bay",
+		"latitude": 4.4812,
+		"longitude": 118.6112
+	},
+	{
+		"name": "Labuan Island",
+		"latitude": 5.2831,
+		"longitude": 115.2308
+	}
+]
